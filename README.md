@@ -9,9 +9,8 @@ Example apps built with Tomcat
 ## Ports Used
 
 * 80 - GraphQL API
-* 4002 - Resurface API Explorer
-* 4001 - Resurface microservice
-* 4000 - Trino database UI
+* 7700 - Resurface API Explorer
+* 7701 - Resurface microservice
 
 ## Deploy Locally
 
